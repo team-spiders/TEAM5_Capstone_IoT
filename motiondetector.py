@@ -9,10 +9,10 @@ from email.mime.multipart import MIMEMultipart
 # Email configuration
 SMTP_SERVER = 'smtp.gmail.com'
 SMTP_PORT = 587
-SMTP_USERNAME = 'your_email@gmail.com'
-SMTP_PASSWORD = 'your_email_password'
+SMTP_USERNAME = 'sudip@gmail.com'
+SMTP_PASSWORD = 'password'
 TO_EMAIL = 'recipient_email@example.com'
-FROM_EMAIL = 'your_email@gmail.com'
+FROM_EMAIL = 'sudip@gmail.com'
 
 # GPIO pin for motion sensor
 pir_sensor = 11
