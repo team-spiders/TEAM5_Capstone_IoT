@@ -62,3 +62,34 @@ d. Implementing video streaming
 e. Integrating audio streaming 
 
 f. User authenticity and security
+
+## hardware/software architecture 
+
+![image](https://github.com/team-spiders/TEAM5_Capstone_IoT/assets/115747921/183459aa-13fa-423e-8051-78778a455501)
+
+The first half of the image shows the Raspbian OS providing software infrastructure for the baby monitoring system. The
+video streaming software is installed on the Raspberry Pi and used to stream video from the camera to a web server. The
+web server then creates the web-based user interface for viewing the footage and sensor data. The sensor data collection
+software connected to Raspberry Pi such as motion sensors collect the data and the alerting software can be programmed
+if the sensor's reading indicates that the baby’s environment is not safe.
+
+
+
+The second half of the image shows the hardware architecture where Raspberry Pi is the main controller for the system with various hardware components connected.
+
+## Product: Prototype 3D Design Quality
+For our product, since the camera model is a web, the only ideal 3D design would be the raspberry pi case. Some
+images in different orientations of the design are mentioned here and the respective files are uploaded to our
+GitHub Account.
+
+![image](https://github.com/team-spiders/TEAM5_Capstone_IoT/assets/115747921/26cdc22c-afae-47e2-b4d2-7b5bba04f3ea)
+
+## Technology Innovation
+
+As technology improves, we are able to create advanced AI applications that go beyond human capabilities,
+and the IoT is one such technology that can help us meet human needs. One example of this is the IoT Baby
+Monitoring System, which has features like remote monitoring, smart alerts, and environmental monitoring.
+Remote monitoring allows parents or caretakers to view their baby's activities from afar, while smart alerts
+notify them of certain activities such as crying. Environmental monitoring tracks the baby's environment, like
+temperature and humidity, and presents that data in real time on their device. These features combine to create
+an innovative system that helps parents and caretakers better care for their babies.
