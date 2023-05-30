@@ -39,3 +39,26 @@ Here are some challenges we faced while working with Baby Monitoring System.
 Since API token is used to gain full access of the bot, it is important to keep that confidential.
 
 ![image](https://github.com/team-spiders/TEAM5_Capstone_IoT/assets/115747921/1205b22d-5f35-4d3c-ae05-1b0b17457a1d)
+
+## Research on possible App-Integration / Web Interface
+Remote monitoring is one of the critical features in collaboration with other features: Such as Motion Detection, Temperature Sensor, etc. I did some research on this topic and found some conclusions as follow:
+To make remote monitoring possible, there are some steps we need to work on: 
+
+a. Streaming Service
+
+b. Web-Interface or Mobile App
+
+Developing a Web-interface or Mobile App would be a complete project in itself. Hence, it would be a challenge for us to carry out in short time frame with limited sources. 
+However, the steps below for Mobile App integration based on the web research can be our potential future project. 
+
+a. Selecting a programming language and interface
+
+b. Designing the user interface
+
+c. Setup a development environment
+
+d. Implementing video streaming
+
+e. Integrating audio streaming 
+
+f. User authenticity and security
